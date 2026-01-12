@@ -4,6 +4,10 @@
 The data used in this project is sourced from the CASMEMG database. To access the data, you need to submit a license agreement at [http://casme.psych.ac.cn.e5](http://casme.psych.ac.cn.e5).
 Temporal annotations for 380 samples presented in `380_sorted.xlsx`.
 
+【update】Due to a severe server issue that we are currently unable to resolve in the short term, our standard database application system is temporarily unavailable. To ensure your request is still processed without significant delay, please submit your application through the following link instead: https://melabipcas.github.io/melab/en/databases.html
+
+
+
 ### Methodology
 This project implements the baseline method for EMG-based facial expression interval detection using the CASMEMG dataset. The methodology and parameters used for the detection process are outlined as follows:
 
